@@ -4,7 +4,7 @@ Performs an executive Knowledge Management and Copilot Readiness assessment of b
 
 The skill evaluates accessible business content across exactly six dimensions: **Currency, Clarity, Consistency, Findability, Ownership, and AI Suitability**. It identifies evidence-based strengths, material risks, prioritized improvements, and questions for an initial client workshop.
 
-![Knowledge Readiness Advisor](./assets/full-demo.png
+![Knowledge Readiness Advisor](./assets/full-demo.png)
 
 ## What you get
 
